@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "name": "Kit CCTV 2 Cámaras 1080p",
+    "slug": "kit-cctv-2-camaras-1080p",
+    "category": "CCTV",
+    "price": 1600,
+    "brand": "HikPro",
+    "rating": 4.6,
+    "image": "/kit2c.png",
+    "description": "Sistema de videovigilancia con 2 cámaras bullet 1080p, DVR 4ch, 500GB y acceso remoto por app.",
+    "features": [
+      "Visión nocturna 30m",
+      "Compresión H.265",
+      "Detección de movimiento",
+      "App móvil iOS/Android"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kit CCTV 4 Cámaras 1080p",
+    "slug": "Kit CCTV 4 Cámaras 1080p",
+    "category": "CCTV",
+    "price": 2200,
+    "brand": "HIKVISION",
+    "rating": 4.4,
+    "image": "/kit4c.png",
+    "description": "Sistema de videovigilancia con 4 cámaras bullet 1080p, DVR 8ch, 500GB y acceso remoto por app.",
+    "features": [
+      "Visión nocturna 30m",
+      "Compresión H.265",
+      "Detección de movimiento",
+      "App móvil iOS/Android"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kit CCTV 6 Cámaras 1080p",
+    "slug": "Kit CCTV 6 Cámaras 1080p",
+    "category": "CCTV",
+    "price": 2900,
+    "brand": "HIKVISION",
+    "rating": 4.2,
+    "image": "/kit6c.png",
+    "description": "Sistema de videovigilancia con 4 cámaras bullet 1080p, DVR 8ch, 500GB y acceso remoto por app.",
+    "features": [
+"Visión nocturna 30m",
+      "Compresión H.265",
+      "Detección de movimiento",
+      "App móvil iOS/Android"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "KKit CCTV 8 Cámaras 1080p",
+    "slug": "Kit CCTV 8 Cámaras 1080p",
+    "category": "Alarmas",
+    "price": 3600,
+    "brand": "HIKVISION",
+    "rating": 4.5,
+    "image": "/kit8c.png",
+    "description": "istema de videovigilancia con 4 cámaras bullet 1080p, DVR 8ch, 500GB y acceso remoto por app.",
+    "features": [
+      "App móvil",
+      "Notificaciones push/SMS",
+      "Batería de respaldo",
+      "Fácil instalación"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Terminal de Tiempo Y asistencia",
+    "slug": "sTerminal de Tiempo Y asistencia",
+    "category": "Alarmas",
+    "price": 2500,
+    "brand": "ZKTeco",
+    "rating": 4.1,
+    "image": "/biometrico1.jpg",
+    "description": "permite controlar la asistencia y el ingreso de empleados mediante características únicas del cuerpo, como la huella digital",
+    "features": [
+      "Comunicación Wi-Fi, USB-Host",
+      "Capacidad de Huellas 1.000 / 1.500",
+      "Capacidad de Eventos 50.000",
+      "Pantalla Pantalla TFT de 2.8 Pulgadas"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "biométrico de registro de personal",
+    "slug": "biométrico de registro de personal",
+    "category": "Alarmas",
+    "price": 2500,
+    "brand": "ZKTeco",
+    "rating": 4.0,
+    "image": "/biometrico2.jpg",
+    "description": "permite controlar la asistencia y el ingreso de empleados mediante características únicas del cuerpo, como  rostro o tarjetas",
+    "features": [
+      "Pantalla táctil de 2,4 pulgadas",
+      "RFID: Tarjeta de identificación, tarjeta IC (opcional)",
+      "BCapacidad de usuario: 3.000",
+      "Capacidad de usuario: 3.000",
+      "Capacidad de cara: 500",
+      "Capacidad de registros: 200.000"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Control de Acceso Biométrico",
+    "slug": "control-acceso-biometrico",
+    "category": "Control de Acceso",
+    "price": 2500,
+    "brand": "ZKTeco",
+    "rating": 4.3,
+    "image": "/biometrico2.jpg",
+    "description": "Lector huella y tarjeta RFID con software de asistencia.",
+    "features": [
+      "Huellas + RFID",
+      "PoE",
+      "Relé puerta",
+      "Reporte asistencia"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cerradura Inteligente Bluetooth",
+    "slug": "cerradura-inteligente-bluetooth",
+    "category": "Control de Acceso",
+    "price": 1199,
+    "brand": "SmartDoor",
+    "rating": 4.4,
+    "image": "/lock.svg",
+    "description": "Apertura por app, PIN y llave mecánica. Log de eventos.",
+    "features": [
+      "BLE + PIN",
+      "Alarma tamper",
+      "Autocierre",
+      "Batería AA"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Kit Videoportero IP",
+    "slug": "kit-videoportero-ip",
+    "category": "Control de Acceso",
+    "price": 1499,
+    "brand": "DoorEye",
+    "rating": 4.2,
+    "image": "/lock.svg",
+    "description": "Frente de calle con cámara y monitor interior 7\".",
+    "features": [
+      "App móvil",
+      "PoE",
+      "HD",
+      "Integración cerradura"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Router Gigabit Dual-Band",
+    "slug": "router-gigabit-dual-band",
+    "category": "Redes",
+    "price": 399,
+    "brand": "NetX",
+    "rating": 4.1,
+    "image": "/cctv.svg",
+    "description": "Router AC1200 con 4 puertos Gigabit y QoS para cámaras.",
+    "features": [
+      "AC1200",
+      "4x Gigabit",
+      "QoS",
+      "App"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Switch PoE 8 puertos",
+    "slug": "switch-poe-8-puertos",
+    "category": "Redes",
+    "price": 699,
+    "brand": "PoEBox",
+    "rating": 4.3,
+    "image": "/cctv.svg",
+    "description": "Switch 8x PoE 10/100/1000 con 2 uplink Gigabit.",
+    "features": [
+      "IEEE 802.3af/at",
+      "120W PoE",
+      "VLAN extendida",
+      "Rackmount"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "UTP Exterior Cat6 100m",
+    "slug": "utp-exterior-cat6-100m",
+    "category": "Redes",
+    "price": 499,
+    "brand": "CableMax",
+    "rating": 4.0,
+    "image": "/cctv.svg",
+    "description": "Cable UTP exterior UV Cat6 rollo 100m.",
+    "features": [
+      "Cubierta PE",
+      "UV",
+      "CCA",
+      "Alta resistencia"
+    ]
+  }
+]
